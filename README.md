@@ -2,6 +2,9 @@
 
 This project trains a **custom YOLOv8 object detection model** to detect various types of vehicles such as cars, buses, trucks, and motorcycles.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiran-kumar-aidev/vehicle-detection-yolov8/blob/main/vehicle_detection_yolov8 (1).ipynb)
+
+
 ---
 
 ## 📂 Dataset
