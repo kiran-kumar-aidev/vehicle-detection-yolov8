@@ -1,0 +1,17 @@
+path: /content/object_detection_project/data
+train: train/images
+val: val/images
+
+nc: 11
+names:
+  - pickup_truck
+  - car
+  - articulated_truck
+  - bus
+  - motorized_vehicle
+  - work_van
+  - single_unit_truck
+  - pedestrian
+  - bicycle
+  - non-motorized_vehicle
+  - motorcycle
